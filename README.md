@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi there 👋 I'm Bhavika Sood
 
-<!--
-**bhavikasood28/bhavikasood28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate Student | 📊 Aspiring Data Analyst | 💼 Finance Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💡 About Me**
+
+I’m pursuing a Master of Science in Engineering Sciences at the University at Buffalo. Passionate about turning data into actionable insights by blending technical skills with business sense.
+
+---
+
+**🛠️ Skills & Technologies**
+
+**Core Tools:**  
+Python · R · SQL · Excel · Tableau · Power BI
+
+**Machine Learning:**  
+Linear & Logistic Regression · Random Forest · Predictive Modeling
+
+**Project Management:**  
+SDLC · Agile · Waterfall · Lean Six Sigma · Jira · Confluence · Visio · LucidChart · SAS
+
+*Always learning, always improving!* 🚀
+
+---
+
+**🔗 Connect with Me**
+
+[LinkedIn](https://www.linkedin.com/in/bhavikasood28) · [GitHub](https://github.com/bhavikasood28) · 📧 bhavika28sood@gmail.com
+
+---
+
+**🎨 Beyond Data**
+
+When not deep in spreadsheets or dashboards, I enjoy painting, reading finance blogs, and exploring behavioral economics. I also love organizing and simplifying complexity in data and in life!
+
+---
+
+**⚡ Fun Fact**
+
+I collect quotes and turn them into visual journaling pieces!
